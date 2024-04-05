@@ -1,0 +1,23 @@
+/* STYLING for UNIQUE COMPONENTS: */
+
+/* Add task button /AddTAskBtn.jsx/ */
+.add-bnt {
+  height: 3em;
+  width: 3em;
+  border-radius: 15px;
+  background-color: var(--clr-cta-primary);
+}
+
+/* Filter for tasks /Filter.jsx/*/
+.filter-select {
+  height: 3em;
+  width: 8em;
+  border: 3px solid;
+  border-color: var(--clr-cta-primary);
+  color: var(--clr-primary-text);
+}
+
+.wrapper {
+  max-width: 800px;
+  margin: 0 auto;
+}

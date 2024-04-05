@@ -1,0 +1,16 @@
+.landing,
+.landing__BtnContainer {
+  margin: 4em 1em;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.landing__BtnContainer {
+  gap: 2em;
+}
+.landing__BtnLogin {
+  background-color: var(--clr-cta-primary);
+}
+.landing__BtnCreate {
+  background-color: var(--clr-cta-secondary);
+}

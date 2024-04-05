@@ -1,0 +1,6 @@
+.load-more-tasks-button {
+  background-color: var(--clr-cta-primary);
+  width: 8.5rem;
+  height: 3rem;
+  margin: 10px 0;
+}

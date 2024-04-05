@@ -1,0 +1,23 @@
+.footer {
+  background-color: var(--clr-accent);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 5px 2px;
+  margin-top: auto;
+  border-top: 2px black solid;
+}
+
+.footer__title {
+  color: var(--clr-primary);
+}
+
+.footer__name-box {
+  display: flex;
+  gap: 12px;
+}
+
+.footer__link-text {
+  color: var(--clr-primary);
+  font-size: 0.9rem;
+}

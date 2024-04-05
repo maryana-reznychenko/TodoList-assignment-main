@@ -1,0 +1,26 @@
+.box_header {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+  height: 60px;
+}
+
+.header {
+  width: 95vw;
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-bottom: 50px;
+}
+
+.header__title {
+  font-size: 2rem;
+  margin-right: 10px;
+}
+.header-icon {
+  font-size: 2rem;
+}
+
