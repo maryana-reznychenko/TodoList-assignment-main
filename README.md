@@ -1,3 +1,6 @@
+*This is a separate copy from the group project if I want to do my experiments.
+
+
 # Taskify app
 
 A Web app that helps create and manage everyday tasks. Login and pasword are requaired in case to have acces to the tasks.
